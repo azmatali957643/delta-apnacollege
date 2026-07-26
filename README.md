@@ -1,2 +1,2 @@
 # delta-apnacollege
-This is the batch for mern full stack development
+This is the batch for mern full stack development.
